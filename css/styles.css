@@ -626,6 +626,26 @@ table th:nth-child(1){
   border: solid #C31D1F 1px;
 }
 
+/* サンプルページへのリンク */
+.sumple_link{
+  width: 300px;
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  color: #605D28;
+  font-size: 35px;
+  background: #F2DC00;
+  border-radius: 20px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+  font-family: ab-kirigirisu, sans-serif;
+}
+
+.sumple_link a:hover{
+  color: white;
+}
+
 
 /* フッター */
 
